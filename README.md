@@ -23,3 +23,6 @@ I'm currently studying AI and Software Development.
 - Learn AI Engineering
 - Build iOS Apps
 - Get my foot in the door with AI or software development
+
+##Certifications
+- AI Foundations
